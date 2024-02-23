@@ -1,0 +1,11 @@
+--- NON HDR ---
+Brightness: 55%
+Contrast: 40%
+Gamma: 0.85
+
+--- AUTO HDR CALIBRATION ---
+First Test: Recommended to set to 0
+Second Test: Increase until you can't see the cross anymore.
+Third Test: Increase until cross dissappears, or go by monitor max/peak brightness(1000 Nit)
+Fourth Test: Set to peak brightness
+Fifth Test: Set to peak brightness
